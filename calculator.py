@@ -1,8 +1,3 @@
-import operator
-
-from numpy import intp, place
-
-
 def calculator(a,b,ch):
     if ch =="+":
         print(f"Addition  = {a+b}")
